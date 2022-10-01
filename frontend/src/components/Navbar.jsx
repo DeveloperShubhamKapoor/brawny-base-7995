@@ -182,13 +182,13 @@ const Navbar = () => {
             </HStack>
             <Center>
               <DrawerBody>
-                <Box>TOOLS</Box>
-                <Box>PRICING</Box>
-                <Box>SOLUTIONS</Box>
-                <Box>PARTERS</Box>
-                <Box>APPS</Box>
-                <Box>BLOG</Box>
-                <Box>SUPPORT</Box>
+                <Box textAlign="center" >TOOLS</Box>
+                <Box textAlign="center" >PRICING</Box>
+                <Box textAlign="center" >SOLUTIONS</Box>
+                <Box textAlign="center" >PARTERS</Box>
+                <Box textAlign="center" >APPS</Box>
+                <Box textAlign="center" >BLOG</Box>
+                <Box textAlign="center" >SUPPORT</Box>
                 <HStack>
                   <Box fontSize="10px" pt="0.3rem" pb="0.3rem" pl="1.3rem" pr="1.3rem" color="#525C69" bgColor="#bdf300" borderRadius="30px" >
                     START FOR FREE
